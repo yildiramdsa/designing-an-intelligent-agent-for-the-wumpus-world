@@ -9,3 +9,5 @@ This project focuses on implementing an intelligent Wumpus World agent capable o
 - Balancing exploration and caution to avoid fatal encounters.
 
 The project highlights key AI concepts, including decision-making under uncertainty, logical reasoning, and search algorithms, providing a practical application of intelligent agent design in a challenging and dynamic environment.
+
+![Designing an Intelligent Agent for the Wumpus World](https://github.com/yildiramdsa/enhancing_banks_personal_loan_approaches/blob/main/images/income_distribution_personal_loan_acceptance_vs_rejection.png)
