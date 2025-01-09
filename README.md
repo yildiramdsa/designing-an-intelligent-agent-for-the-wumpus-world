@@ -1,6 +1,6 @@
 # Designing an Intelligent Agent for the Wumpus World
 
-The Wumpus World is a classic problem in artificial intelligence that involves designing an agent to navigate a grid-based environment filled with hazards, such as pits and a fearsome Wumpus, while searching for gold. The agent must operate under uncertainty, leveraging logical reasoning and perception to make decisions in a partially observable world.
+The Wumpus World is a classic problem in artificial intelligence that involves designing an agent to navigate a grid-based environment filled with hazards, such as pits and a fearsome Wumpus while searching for gold. The agent must operate under uncertainty, leveraging logical reasoning and perception to make decisions in a partially observable world.
 
 This project focuses on implementing an intelligent Wumpus World agent capable of:
 
